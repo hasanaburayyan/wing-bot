@@ -1,0 +1,18 @@
+{
+  "display_information": {
+    "name": "hasansupercoolapp",
+    "description": "This is a super cool app"
+  },
+  "features": {
+    "bot_user": {
+      "display_name": "sick man"
+    }
+  },
+  "oauth_config": {
+    "scopes": {
+      "bot": [
+        "chat:write"
+      ]
+    }
+  }
+}

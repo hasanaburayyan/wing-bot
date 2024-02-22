@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@slack/bolt": "^3.17.1",
+    "@slack/web-api": "7.0.2",
+    "@winglibs/ngrok": "^0.0.2"
+  }
+}
